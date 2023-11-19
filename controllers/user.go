@@ -6,7 +6,6 @@ import(
 "github.com/julienschmidt/httprouter"
 "gopkg.in/mgo.v2"
 "gopkg.in/mgo.v2/bson"
-"github.com/akhil/mongo-golang/models"
 "net/http"
 )
 
